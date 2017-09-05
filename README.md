@@ -4,7 +4,7 @@ This is a Chrome Plugin for GitHub to collect data from developers when they are
 **Note:** *This is a work in progress and is not recommended for use at this stage of development.*
 
 ## Getting Started:
-![](https://raw.githubusercontent.com/achyudhk/Code-Change-Reviewability-Plugin/master/doc/screenshot.png)
+![](https://raw.githubusercontent.com/achyudhk/Pull-Request-Feedback-Plugin/master/doc/screenshot.png)
 ### Prerequisites:
 This extension is just a bundle of files that adds functionality to the Google Chrome browser. You will need a recent version of Google Chrome with developer mode enabled to install the unpacked plugin.
 #### Permissions required:
