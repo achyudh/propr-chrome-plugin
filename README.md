@@ -11,6 +11,7 @@ This extension is just a bundle of files that adds functionality to the Google C
 These are subject to change in the coming build are more functionality is added.
   * Active Tab: To get the URL of the active webpage
   * Access to "https://github.com/*", "https://api.github.com/*" for the GitHub APIs
+  * A rate limit of 5000 requests per hour on Github API
 ### Installing the extension:
 For details on how to load an unpacked extension, you can read [this tutorial](https://developer.chrome.com/extensions/getstarted#unpacked) by Google.
 
