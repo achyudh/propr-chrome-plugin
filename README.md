@@ -1,4 +1,4 @@
-# Pull-Request-Feedback-Plugin
+# Propr Plugin for Chrome
 This is a Chrome Plugin for GitHub to collect data from developers when they are reviewing pull requests in order to determine common features of "good" code changes.
 
 **Note:** *This is a work in progress and is not recommended for use at this stage of development.*
